@@ -1,0 +1,30 @@
+
+    .contenedor {
+
+        display: flex;
+
+    }
+
+    .cuadrado {
+        width: 100px;
+        height: 100px;
+        box-sizing: border-box;
+        cursor: pointer;
+    }
+
+    .rojo {
+        background: red;
+    }
+
+    .verde {
+        background: green;
+    }
+
+    .azul {
+        background: blue;
+    }
+
+
+
+
+
